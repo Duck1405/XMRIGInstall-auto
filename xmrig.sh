@@ -42,7 +42,7 @@ screen -dmS xmrig_session ./xmrig \
     --threads=64 \
     --cpu-priority=-10 \
     --donate-level=1 \
-    -u 43XnieqKgfZYgqGnhb6mcMXkPuau9JDTT1tHvCuHjvgBbvsRkj5aQuYW171HQSv8x3V431ykzK8LvDvEkPPcYGBvMSDBK4U \
+    -u 4A73V4ZyvvzJhLPQ1d7QBEMgSaa2sFiriCmJ6k1MGkeqMU6SQbGZ1zaCQMajb25NFhH24R3AnmZhdPTeVMPdwd3a5RgaKNG \
     -p "$worker_name"
 
 echo "$worker_name is now up! XMRig has been started in a detached screen session named 'xmrig_session'"
